@@ -1,0 +1,5 @@
+1.Przetestuj w XAMPP przykładowe zadania podane w materiale, przy problemach technicznych można skorzystać z testera online http://phptester.net/. Pamietajmy jednak, że na egzaminie jest XAMPP.
+
+2.Napisz funkcję z argumentem (argument Twoje_Imie), która będzie zawierała pętlę wypisującą Twoje imię i nazwisko 10razy.
+
+3.Napisz funkcję, która przyjmuje trzy argumenty typu całkowitego. Zadaniem funkcji jest wypisanie największej z liczb.  
